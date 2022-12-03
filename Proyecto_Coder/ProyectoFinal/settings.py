@@ -55,7 +55,7 @@ ROOT_URLCONF = 'ProyectoFinal.urls'
 TEMPLATES = [
     {
         'BACKEND': 'django.template.backends.django.DjangoTemplates',
-        'DIRS': ['C:/Users/ry33643/Desktop/Curso_CoderHouse/Proyecto_PozziD/ProyectoFinal/Plantillas'],
+        'DIRS': ['C:/Users/ry33643/Desktop/Curso_CoderHouse/Clase_18/Proyecto_Coder/Proyecto_Coder/Plantillas'],
         'APP_DIRS': True,
         'OPTIONS': {
             'context_processors': [
